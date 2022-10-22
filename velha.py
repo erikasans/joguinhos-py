@@ -1,7 +1,10 @@
+print('JOGO DA VELHA')
+
 matriz = [[0,0,0],[0,0,0],[0,0,0]]
 acerto1 = 0
 colunas = []
 ganhou = False
+
 while ganhou != True:
     print('Jogador 1')
     for valor in matriz:
