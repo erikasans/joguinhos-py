@@ -36,6 +36,8 @@ def mergeSort(lista):
         return lista
 
 if __name__ == '__main__':
+    print('Ordenar lista')
+    
     lista = [38, 27, 43, 3, 9, 82, 10]
     print("Lista inserida: ", lista)
     print("Lista ordenada: ", mergeSort(lista))
