@@ -126,4 +126,5 @@ def jogo():
 
 jogo()
 
+#fechar jogo
 pg.quit()
