@@ -1,5 +1,5 @@
 # Jogo da forca python3 - Para rodar no terminal escreva "python3 forca.py"
-
+# random blilioteca que busca um número "aleatório"
 import random
 
 
