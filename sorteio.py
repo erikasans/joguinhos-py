@@ -35,6 +35,7 @@ def mergeSort(lista):
             k += 1
         return lista
 
+#funcao principal para começar a ordenação
 if __name__ == '__main__':
     print('Ordenar lista')
     
