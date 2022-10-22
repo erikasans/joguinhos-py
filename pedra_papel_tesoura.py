@@ -1,5 +1,5 @@
 import random
-
+#para que a escolha da máquina seja "aleatória"utiliza a função random
 print('Pedra Papel Tesoura')
 
 perguntar = int(input('''Escolha uma opcao para se jogar: 
