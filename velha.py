@@ -1,5 +1,5 @@
 print('JOGO DA VELHA')
-
+#variáveis
 matriz = [[0,0,0],[0,0,0],[0,0,0]]
 acerto1 = 0
 colunas = []
