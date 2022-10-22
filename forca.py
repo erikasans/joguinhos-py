@@ -90,6 +90,8 @@ def desenho(erros):
         print("FORCA!")
         print()
 
+print('JOGO DA FORCA')
+        
 perguntarNovamente = True
 game_on = True
 while game_on:
