@@ -1,5 +1,7 @@
 import random
 
+print('Pedra Papel Tesoura')
+
 perguntar = int(input('''Escolha uma opcao para se jogar: 
 
 [0] Pedra
