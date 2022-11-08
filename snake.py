@@ -24,7 +24,6 @@ relogio = pg.time.Clock()
 background = pg.display.set_mode((width, height)) # abre uma janela e define o tamanho da tela
 pg.display.set_caption("Snake") # nomeia a janela do jogo
 
-
 def text(msg, cor, tam, x, y): #função para criar texto
     font = pg.font.SysFont("Arial", tam)
     txt1 = font.render(msg, True, cor)
@@ -125,6 +124,4 @@ def jogo():
 
 
 jogo()
-
-#fechar jogo
 pg.quit()
